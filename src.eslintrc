@@ -5,7 +5,6 @@
     "radix": 2,
     "wrap-iife": [2, "outside"],
 
-    "global-strict": 0,
     "strict": [2, "global"],
 
     "brace-style": [2, "1tbs", {"allowSingleLine": true}],
